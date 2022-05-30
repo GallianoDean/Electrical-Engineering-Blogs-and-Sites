@@ -1,9 +1,6 @@
 # Electrical-Engineering-Blogs-and-Sites
 A collection of blogs and sites that provide educational and technical resources in electrical engineering.
-
-Collection of undergraduate and graduate level university courses on subjects in Electrical Engineering. The web pages for these courses are openly accessible (links included in list), and they provide plenty of valuable educational resources in their respective subjects.
-
-
+The web pages for these courses are openly accessible (links included in list), and they provide plenty of valuable educational resources in their respective subjects.
 
 **Introduction**
 
@@ -11,8 +8,7 @@ Collection of undergraduate and graduate level university courses on subjects in
 - Please refer  for contribution guidelines.
 ------------------------------
 
-Table of Contents
-------------------------------
+--------------
 
 - [Software Engineering](#software-engineering)
 
@@ -75,71 +71,6 @@ Courses
 	- 
 - **Subject**
 	- 
-
-------------------------------
-
-### Analog 
-- 
-
---------------
-
-### 
-
-- **Subject
-	- 
-
-- **Suject
-	- 
-
-------------------------------
-
-### Programming
-
-**Introduction**
-
-
-- **C & C++ Programming**
-	- 
-- ****
-	- 
-- **s**
-	- 
-
--------------------------
-
-### Applied Mathematics
-- 
-- **Calculus**
-	- 
-- **Probability & Statistics**
-	-
-- **Linear Algebra & Matrix Computations
-	
-
--------------------------
-
--------------------------------
-
-### Embedded Systems
-
-- 
-
-------------------------------
-
-### Real-Time Embedded Systems
-- 
-
--------------------------------
-
-### Computer Organization and Architecture
-- **Computer Organization**
-	-
-- **Computer Architecture**
-	- 
-- **Digital Systems Design**
-	- 
-
-
 --------------------------------
 ### Subject
 - TBD
